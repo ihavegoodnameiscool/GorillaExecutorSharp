@@ -11,9 +11,12 @@ function gconsolesettitle(string title);
 
 Allows the modification of the title of the console.
 
-### Example
+---
+
+## gconsolecreate
 
 ```csharp
-//set title to 'Hey!'
-gconsolesettitle("Hey!");
+function gconsolecreate();
 ```
+
+Allocates a console into the Gorilla Tag application.
