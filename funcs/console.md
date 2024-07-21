@@ -1,5 +1,5 @@
 # Console functions
 
-```
+`
 test
-```
+`
