@@ -1,5 +1,2 @@
 # Console functions
-
-`
-test
-`
+Functions to interact with the Console on gorilla tag.
