@@ -30,3 +30,23 @@ function gconsoleprint(string text);
 ```
 
 Display a string of text onto the created Console in the game.
+
+---
+
+## gconsoledestroy
+
+```csharp
+function gconsoledestroy();
+```
+
+Free the console from Gorilla Tags memory, making in dissapear. (May also crash the game)
+
+---
+
+## gconsoleinput
+
+```csharp
+function gconsoleinput();
+```
+
+Pauses the game to allow input through the previously allocated console.
