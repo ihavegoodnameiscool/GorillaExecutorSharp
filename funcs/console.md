@@ -1,1 +1,5 @@
 # Console functions
+
+```
+test
+```
