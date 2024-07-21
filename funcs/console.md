@@ -1,2 +1,3 @@
 # Console functions
-Functions to interact with the Console on gorilla tag.
+Functions to interact with the **Console** on gorilla tag.
+---
